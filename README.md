@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoebowman
-- 👀 I’m interested in health modelling woth statistics.
+- 👀 I’m interested in health data science and data analysis.
 - 🌱 I’m currently learning the basics of Python and improving my R-studio knowledge.
 - 💞️ I’m looking to collaborate on any health related projects to help learn new skills.
 - 😄 Pronouns: she/her
